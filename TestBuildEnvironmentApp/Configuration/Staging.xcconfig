@@ -1,0 +1,11 @@
+//
+//  Staging.xcconfig
+//  TestBuildEnvironmentApp
+//
+//  Created by ebpearls on 08/08/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+Api_key = staging
