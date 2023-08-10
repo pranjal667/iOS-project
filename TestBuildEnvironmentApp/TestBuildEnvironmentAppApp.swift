@@ -12,6 +12,7 @@ struct TestBuildEnvironmentAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // this is a test view
         }
     }
 }
